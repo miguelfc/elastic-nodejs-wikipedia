@@ -103,4 +103,4 @@ var insert = function() {
   }
 }
 console.log("Extraction started.");
-extract(1);
+extract(20);
